@@ -39,9 +39,9 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "favicon": false,
-    "mbrsiteDomain": "4cac76gn9b",
-    "imageResize": false,
+    "favicon": "@PROJECT_PATH@/assets/images/tphicon.jpg",
+    "mbrsiteDomain": "nhn3q2kjtb",
+    "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -59,8 +59,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "The Pond House",
+        "meta_descr": "24 Hidden Pond Drive - Amherst, NH 03031 - This gorgeous single story home is located in the heart of historic Amherst Village, one of the most highly sought after towns to live in New Hampshire. The open concept floor plan boast 2100 sq ft with endless sliding doors and windows for seamless indoor-outdoor living, perfect for summer living and entertaining guests. This single-story dream home is near net-zero thanks to its 15.2Kw solar array and efficient systems and features 2 bedrooms with their own private bathroom, plus a den/guest room (with built in Murphy bed to serve as 3rd bedroom), accented porcelain and slate floors, stainless steel appliances, quartz countertops, central A/C, oversized screened-in porch, full-length composite deck, 2 car garage fully appointed with high end storage and luxurious epoxy flooring, and amazing sunrise and water views from every room. 24 Hidden Pond is fully furnished with top-quality items and can be purchased completely furnished. Enjoy this private and quiet natural birder's paradise on your oversized 6-acre lot featuring a private pond and island while still being minutes away from all the amenities you need. Only a short walk to the heart of Historic Amherst, and minutes from two country clubs, the town beach at Baboosic Lake and dozens of hiking trails.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
